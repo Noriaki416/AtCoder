@@ -7,6 +7,8 @@ using ll = long long;
 using P = pair<int,int>;
 void chmin(int& x, int y) { x = min(x, y);}
 
+// Ref: https://blog.hamayanhamayan.com/entry/2019/10/27/233512
+
 int main() {
   int N, M;
   cin >> N >> M;
